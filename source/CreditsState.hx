@@ -79,6 +79,8 @@ class CreditsState extends MusicBeatState
 		#end
 
 		var pisspoop:Array<Array<String>> = [ //Name - Icon name - Description - Link - BG Color
+            ['Cara que fez o Port lol'],
+			['Enzo Mods',		    'enzo',		    'Um Portado pro',	 'https://youtube.com/channel/UCixjbIv6a4Op1QHCVfmzOzg',	    '0102D6'],
 			['Psych Engine Android'],
 			['M.A. Jigsaw',		    'majigsaw',		    'Main Coder of The Port',	 'https://www.youtube.com/channel/UC2Sk7vtPzOvbVzdVTWrribQ',	    'F73838'],
 			['Psych Engine Team'],
